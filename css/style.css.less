@@ -22,8 +22,11 @@
 // -------------------------
 @body-bg:               @white;
 @text-color:            @black;
-#main {
-    margin-left:        @grid-gutter-width*2;
+
+@media (min-width: @screen-lg-desktop) {
+  #main.container {
+    margin-left:        @grid-gutter-width;
+  }
 }
 
 // Links
