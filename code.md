@@ -1,6 +1,5 @@
 ---
 title: code
-layout: default
 ---
 
 I've been writing code for at least several weeks now. I have an opinion about punctuation in JavaScript.
