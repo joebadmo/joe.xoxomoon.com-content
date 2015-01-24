@@ -1,6 +1,5 @@
 ---
 title: A Few of My Favorite Things
-layout: post
 alias: /post/105574325/a-few-of-my-favorite-things
 date: 2009-04-27
 ---

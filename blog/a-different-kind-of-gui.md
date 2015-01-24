@@ -1,6 +1,5 @@
 ---
 title: A Different Kind of GUI
-layout: post
 alias: /post/9325300749/a-different-kind-of-gui
 date: 2011-08-23
 ---
