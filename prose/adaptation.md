@@ -1,6 +1,5 @@
 ---
 title: Concrete and Abstract Adaptation in Adaptation
-layout: portfolio
 ---
 Spike Jonze and Charlie Kaufman's *Adaptation* (2002), in its exploration of the problems with adapting Susan Orlean's book, *The Orchid Thief*, into a film, challenges quite a few notions about the nature of adaptation, and about filmmaking in general. From the concept of genre, ideas about truth, fiction, and the line between them, closeness of adaptation, to the notion of the director as the primary creative vision behind a film, Adaptation examines the process of adapting a text through the use of self-reference, meta-textuality, and recursion to posit the ultimate futility of adapting a book like *The Orchid Thief*, while simultaneously adapting the book quite beautifully on a meta-textual level.
 
