@@ -1,5 +1,6 @@
 ---
 title: about
+date: 1/1/2015
 ---
 
 Hi. I'm Joe.
