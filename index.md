@@ -46,7 +46,7 @@ I've also somehow managed to get a few pieces published on [The Atlantic's Techn
 
 As a Comparative Literature major, I did a lot of writing. Here's some of it:
 
-<div id="homework"></div>
+<section name="homework-list"></section>
 
 ### war
 
