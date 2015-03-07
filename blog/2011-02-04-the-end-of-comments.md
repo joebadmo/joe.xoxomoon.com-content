@@ -10,25 +10,24 @@ emerged) social networking platforms like Facebook and Twitter.
 I don't care about the privacy implications (besides Facebook's
 dis-ingenuousness toward the issues and the inherent conflicts of
 interest) so much as I care about the inherent restrictiveness of
-expression. In [this
-review](http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/)
+expression. In [this review](http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/)
 of [The Social Network](http://www.imdb.com/title/tt1285016/), Zadie
 Smith talks about how Mark Zuckerberg's personal limitations inform and
 define Facebook's.
 
 > The striking thing about the real Zuckerberg, in video and in print,
-> is the relative banality of his ideas concerning the "Why" of
-> Facebook. He uses the word "connect" as believers use the word
-> "Jesus," as if it were sacred in and of itself: "So the idea is really
-> that, um, the site helps everyone connect with people and share
-> information with the people they want to stay connected with…."
-> Connection is the goal. The quality of that connection, the quality of
-> the information that passes through it, the quality of the
-> relationship that connection permits--none of this is important. That a
-> lot of social networking software explicitly encourages people to make
-> weak, superficial connections with each other (as Malcolm Gladwell has
-> recently argued), and that this might not be an entirely positive
-> thing, seem to never have occurred to him.
+is the relative banality of his ideas concerning the "Why" of
+Facebook. He uses the word "connect" as believers use the word
+"Jesus," as if it were sacred in and of itself: "So the idea is really
+that, um, the site helps everyone connect with people and share
+information with the people they want to stay connected with…."
+Connection is the goal. The quality of that connection, the quality of
+the information that passes through it, the quality of the
+relationship that connection permits--none of this is important. That a
+lot of social networking software explicitly encourages people to make
+weak, superficial connections with each other (as Malcolm Gladwell has
+recently argued), and that this might not be an entirely positive
+thing, seem to never have occurred to him.
 
 I'm not and never have been a Facebook user, but as far as I can tell,
 its domination of the market is basically an accident. It's never had a

@@ -66,8 +66,7 @@ to like the mouse:
     creates friction for typing. And since typing is one of the main
     ways of producing content, this friction is a particular type that
     only applies to production and not to consumption.
-5. It's slower, or feels slower. (According to [Bruce
-    Tognazzini](http://www.asktog.com/TOI/toi06KeyboardVMouse1.html),
+5. It's slower, or feels slower. (According to [Bruce Tognazzini](http://www.asktog.com/TOI/toi06KeyboardVMouse1.html),
     Apple R&D found that mousing is in fact faster than keyboarding.
     This strikes me as highly dubious today not only for all the reasons
     given above, but also because the article is from 1989 and the
@@ -103,8 +102,7 @@ At least with keyboard shortcuts, it's possible to expose functionality
 because the keys have a conventional labeling system built in. Gestures
 do not. I don't see any real way to reconcile the inherent and
 fundamental difference between the two paradigms (direct and indirect)
-with the [ergonomic
-constraints](http://procrastineering.blogspot.com/2011/07/myth-of-dying-mouse.html)
+with the [ergonomic constraints](http://procrastineering.blogspot.com/2011/07/myth-of-dying-mouse.html)
 of different types of computing. Maybe Apple's solution will be to
 further marginalize the needs of the technical user and simply move to a
 touch-only interface, with touch-screen laptops as their physically
@@ -245,15 +243,11 @@ Illustrations by Chris Klink.
 
 ### Further Reading
 
-1. Christopher Mims. ["Is the Desktop Having an Identity
-    Crisis?"](http://www.technologyreview.com/computing/38047/). *MIT
+1. Christopher Mims. ["Is the Desktop Having an Identity Crisis?"](http://www.technologyreview.com/computing/38047/). *MIT
     Technology Review*. July 18, 2011.
-2. Wikipedia. ["History of the
-    GUI"](http://en.wikipedia.org/wiki/History_of_the_graphical_user_interface).
-3. Jeremy Reimer. ["A History of the
-    GUI"](http://arstechnica.com/old/content/2005/05/gui.ars).
-4. Brad A. Myers. ["A Brief History of Human Computer Interaction
-    Technology"](http://www.cs.cmu.edu/~amulet/papers/uihistory.tr.html).
+2. Wikipedia. ["History of the GUI"](http://en.wikipedia.org/wiki/History_of_the_graphical_user_interface).
+3. Jeremy Reimer. ["A History of the GUI"](http://arstechnica.com/old/content/2005/05/gui.ars).
+4. Brad A. Myers. ["A Brief History of Human Computer Interaction Technology"](http://www.cs.cmu.edu/~amulet/papers/uihistory.tr.html).
     *ACM interactions.* Vol. 5, no. 2, March, 1998. pp. 44–54.
 
 ### Notes
@@ -270,10 +264,8 @@ Illustrations by Chris Klink.
     the technology simple to use for lay users, but in an opaque,
     'magical' way. 
 
-[^2]: John Siracusa's [review of
-    Lion](http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars)
-    is probably the best starting point, and [this Mac Observer
-    article](http://www.macobserver.com/tmo/article/the_future_of_the_mac_after_lion/)
+[^2]: John Siracusa's [review of Lion](http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars)
+    is probably the best starting point, and [this Mac Observer article](http://www.macobserver.com/tmo/article/the_future_of_the_mac_after_lion/)
     discusses this as well. 
 
 [^3]: The mapping between iOS's direct manipulation and Lion's indirect
@@ -289,7 +281,6 @@ Illustrations by Chris Klink.
 [^4]: If you think back to your first experience with a mouse, or watching
     someone's first experience, you might agree that the mouse actually
     isn't particularly intuitive so much as it is familiar.
-    
 
 [^5]: This observation is probably more broadly applicable. For example,
     languages with simpler grammars are probably easier to learn, but

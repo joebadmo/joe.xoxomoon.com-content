@@ -15,8 +15,7 @@ Google mean by 'open,' and how open is Google?
 
 ### Open
 
-As laid out in this [this blog
-post](http://googleblog.blogspot.com/2009/12/meaning-of-open.html),
+As laid out in this [this blog post](http://googleblog.blogspot.com/2009/12/meaning-of-open.html),
 Google refers to a couple of different things with the term: "open
 technology" and "open information." Open technology, in turn, consists
 of: open source; and open standards and APIs. Google is unequivocally
@@ -157,8 +156,7 @@ Their promotion of an open, decentralized, interoperable Web accessed
 through commoditized (maximally available) hardware and software serves
 Google and the world at large simultaneously. It also sidesteps the
 adversarial nature of selling things to customers. And despite what I
-think is a [fundamental
-conflict](http://blog.byjoemoon.com/post/7590977101/googles-existential-crisis),
+think is a [fundamental conflict](http://blog.byjoemoon.com/post/7590977101/googles-existential-crisis),
 Google does this by making advertising useful.
 
 Are there also some incentives that are bad? Yes. Google has a strong
@@ -189,14 +187,10 @@ the shareholders in an important way.
     offer a solid, compelling user experience first to gain significant
     adoption, and only then start to open up the technology for people
     to start creating their own interoperable social networking
-    services. I think some of its inexplicably draconian policies, [on
-    pseudonyms](http://epeus.blogspot.com/2011/08/google-plus-must-stop-this-identity.html),
+    services. I think some of its inexplicably draconian policies, [on pseudonyms](http://epeus.blogspot.com/2011/08/google-plus-must-stop-this-identity.html),
     for example, make sense from this perspective.
-    
 
-[^2]: Though, they *do* [talk about
-    it](http://insidesearch.blogspot.com/2011/08/another-look-under-hood-of-search.html).
-    
+[^2]: Though, they *do* [talk about it](http://insidesearch.blogspot.com/2011/08/another-look-under-hood-of-search.html).
 
 [^3]: This is the Android that Andy Rubin was referring to in his infamous
     [tweet](http://twitter.com/#!/Arubin/status/27808662429).
@@ -218,6 +212,5 @@ the shareholders in an important way.
     restrictive policies, however. HTC recently released a bootloader
     unlocking tool that gives you full access to the hardware, though
     its use voids the device's warranty.
-    
 
 [^7]: More [here](http://www.socialaw.com/slip.htm?cid=20416&sid=121).

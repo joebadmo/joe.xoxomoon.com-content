@@ -12,8 +12,7 @@ the technology itself, which when regarded alone doesn't add anything
 particularly novel to the social networking ecosystem. These actual,
 technical process issues, like integrating with GMail and automatically
 populating a public contact list, etc. are not especially interesting to
-me, and others ([danah
-boyd](http://www.danah.org/papers/talks/2010/SXSW2010.html)) have
+me, and others ([danah boyd](http://www.danah.org/papers/talks/2010/SXSW2010.html)) have
 written more intelligently than I could hope to on the subject.
 
 There are two other aspects of Buzz that I find much more interesting.
@@ -41,8 +40,8 @@ Interoperability changes things. Ultimately, it kind of elides the
 differences between the types of content that the different services are
 used for, and even introduces elision between content outside of social
 networks. If you take interoperability to its logical extreme, almost
-all digital communication is the same kind of stuff; [it's all just
-content](http://www.buzzmachine.com/2010/04/07/what-is-content-then/).
+all digital communication is the same kind of stuff; [it's all just content](http://www.buzzmachine.com/2010/04/07/what-is-content-then/).
+
 To include:
 
 -   News articles, essays, and blog posts
@@ -105,16 +104,13 @@ types is publicity vs. privacy (or public-ness vs. private-ness).
 one. Fact is: there's nothing stopping anyone from forwarding or
 publishing anything sent to them, privately or not, and there are not
 clear legal or social rules governing most private information retention
-behavior (outside of medical and legal contexts). See: [Calacanis vs.
-Odio](http://sam.bluwiki.com/blog/2010/03/confession-i-was-one-who-came-forward.php).)
+behavior (outside of medical and legal contexts). See: [Calacanis vs. Odio](http://sam.bluwiki.com/blog/2010/03/confession-i-was-one-who-came-forward.php).)
 
 It's not really a spectrum at all, then, but a simple binary, and a
 tenuous one at that.
 
 (Ok, so this is maybe abstracting the issue to the point of breaking.
-Realistically it's probably more like what Jeff Jarvis is saying: [There
-is public, and then there are
-publics](http://www.buzzmachine.com/2010/05/08/confusing-a-public-with-the-public/).
+Realistically it's probably more like what Jeff Jarvis is saying: [There is public, and then there are publics](http://www.buzzmachine.com/2010/05/08/confusing-a-public-with-the-public/).
 This is worth talking about separately, I think.)
 
 Most other differences between the above listed types of data,

@@ -4,20 +4,14 @@ alias: /post/105574325/a-few-of-my-favorite-things
 ---
 
 Most of my favorite Firefox add-ons have to do with maximizing browser
-window real estate. Stuff like [Hide
-Menubar](https://addons.mozilla.org/en-US/firefox/addon/4762 "Hide Menubar")
-and [Full
-Fullscreen](https://addons.mozilla.org/en-US/firefox/addon/1568 "Full Fullscreen").
-I've also replaced most of my bookmark menu items with [Site
-Launcher](https://addons.mozilla.org/en-US/firefox/addon/10127 "Site Launcher"),
+window real estate. Stuff like [Hide Menubar](https://addons.mozilla.org/en-US/firefox/addon/4762 "Hide Menubar")
+and [Full Fullscreen](https://addons.mozilla.org/en-US/firefox/addon/1568 "Full Fullscreen").
+I've also replaced most of my bookmark menu items with [Site Launcher](https://addons.mozilla.org/en-US/firefox/addon/10127 "Site Launcher"),
 which gives quick keyboard access to bookmarks (including bookmarklets
-like [Share in Google
-Reader](http://googlereader.blogspot.com/2008/05/share-anything-anytime-anywhere.html "Share in Google Reader")).
+like [Share in Google Reader](http://googlereader.blogspot.com/2008/05/share-anything-anytime-anywhere.html "Share in Google Reader")).
 [Prism](https://addons.mozilla.org/en-US/firefox/addon/6665 "Prism") is
 also a really cool add-on that creates sort of desktop web-apps. I use
-it with my twitter client of choice, [Twitter
-Gadget](http://www.twittergadget.com/ "Twitter Gadget"), and with [Gmail
-Tasks](http://gmailblog.blogspot.com/2008/12/new-in-labs-tasks.html "Gmail Tasks").
+it with my twitter client of choice, [Twitter Gadget](http://www.twittergadget.com/ "Twitter Gadget"), and with [Gmail Tasks](http://gmailblog.blogspot.com/2008/12/new-in-labs-tasks.html "Gmail Tasks").
 
 [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/748 "Greasemonkey")
 is potentially really powerful, but the only scripts I have running
@@ -26,8 +20,7 @@ right now are
 which ties a lot of pagerized web pages together (e.g. I don't have to
 hit the next link to see the next page of Google search results, it just
 loads them dynamically under the first page of results as I scroll
-down), and [Twitter Search Results on
-Google](http://userscripts.org/scripts/show/45091 "Twitter Search Results on Google"),
+down), and [Twitter Search Results on Google](http://userscripts.org/scripts/show/45091 "Twitter Search Results on Google"),
 which is really nice because it gives me a quick look at real-time
 results for every search I perform on Google.
 
@@ -36,8 +29,7 @@ The thing I've gotten the most mileage out of recently, though, is
 in combination with the iPod Touch/iPhone app, has really changed the
 way I read. The way it works is very similar to
 [Readability](http://lab.arc90.com/experiments/readability/ "Readability"),
-which we've talked about before, and [Read It
-Later](https://addons.mozilla.org/en-US/firefox/addon/7661 "Read It Later"),
+which we've talked about before, and [Read It Later](https://addons.mozilla.org/en-US/firefox/addon/7661 "Read It Later"),
 or sort of a combination of the two. The bookmarklet basically saves the
 webpage you're on and closes the tab, and then you can go back to the
 Instapaper site and see a list of all the articles you've saved. When
@@ -67,8 +59,7 @@ My experience with Instapaper has really turned me around on the idea of
 the Kindle, too. My only gripes with the iPod app is that the screen is
 small and it gets a little tiring to read on a backlit screen, so
 something like the Kindle would probably be ideal. And Instapaper has
-[beta Kindle
-support](http://www.instapaper.com/user/kindle "Instapaper Kindle support"),
+[beta Kindle support](http://www.instapaper.com/user/kindle "Instapaper Kindle support"),
 so now I sort of really want one.
 
 Another service that I've found really useful is

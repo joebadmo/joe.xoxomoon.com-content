@@ -70,34 +70,28 @@ production to the same level of importance as her consumption. It says
 something about what the purpose of the device is: to participate in the
 global conversation, in the exchange of ideas.
 
-[This
-ad](http://www.youtube.com/watch?v=TVqe8ieqz10&feature=player_embedded)
+[This ad](http://www.youtube.com/watch?v=TVqe8ieqz10&feature=player_embedded)
 introducing the Chromebook asserts that it's not a laptop, or even a
 computer. Instead, "it actually IS the web." It's a beautiful dream.
 
 ### Notes
 
-[^1]: [Tentative
-    plans](http://dev.chromium.org/chromium-os/user-experience/form-factors/tablet)
+[^1]: [Tentative plans](http://dev.chromium.org/chromium-os/user-experience/form-factors/tablet)
     for a Chrome OS tablet have not come to fruition, at least not yet.
     
 
-[^2]: Even Apple [has had to
-    resort](http://www.wired.com/gadgetlab/2011/01/apple-ios-multitouch/)
+[^2]: Even Apple [has had to resort](http://www.wired.com/gadgetlab/2011/01/apple-ios-multitouch/)
     to things like three- and four-finger swiping gestures that map to
     commands that have no intuitive mapping to the the gestures. I've
     written more about the limitations of a the direct manipulation
-    paradigm
-    [here](http://blog.byjoemoon.com/post/3556631202/touch-ui-is-not-the-future-of-everything)
-    . 
+    paradigm [here](http://blog.byjoemoon.com/post/3556631202/touch-ui-is-not-the-future-of-everything). 
 
 [^3]: The tactile feedback of a physical keyboard is difficult to
     replicate. I'd hoped that Swype or other software keyboard
     technologies would succeed at routing around this problem, but in my
     experience you still have to pay attention to both the keyboard and
     the text you're producing which is a lot of mental overhead that the
-    tactile feedback of keyboards obviates. [Blind
-    type](http://www.youtube.com/watch?v=M9b8NlMd79w&feature=player_embedded)
+    tactile feedback of keyboards obviates. [Blind type](http://www.youtube.com/watch?v=M9b8NlMd79w&feature=player_embedded)
     seems like it's close to a solution, but I haven't gotten to try it
     yet. 
 
@@ -109,10 +103,8 @@ computer. Instead, "it actually IS the web." It's a beautiful dream.
     [embrace](http://arstechnica.com/apple/news/2011/05/conde-nast-to-roll-out-ipad-subscriptions-starting-with-the-new-yorker.ars)
     of the iPad as a publishing platform, despite Apple's fairly
     draconian restrictions and price structure.
-    
 
 [^6]: Of course, Google, as a company, constitutionally embraces the web.
-    
 
 [^7]: I do have misgivings, though, about the "cloud" model, and giving up
     control of our data and identities to corporations.

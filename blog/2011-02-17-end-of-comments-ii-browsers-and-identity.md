@@ -15,10 +15,8 @@ able, but be aware that that's not very far.
 
 [Dave Winer](http://en.wikipedia.org/wiki/Dave_Winer), father of two of
 my favorite things, RSS and podcasting, as well as huge influence on how
-I think about the internet, stopped by and commented on [my last blog
-post](http://blog.byjoemoon.com/post/3112676038/the-end-of-comments).
-And then made the comment into a post on his own blog, [Scripting
-News](http://scripting.com/). Which is a great illustration of the point
+I think about the internet, stopped by and commented on [my last blog post](http://blog.byjoemoon.com/post/3112676038/the-end-of-comments).
+And then made the comment into a post on his own blog, [Scripting News](http://scripting.com/). Which is a great illustration of the point
 of my last post. This is unnecessary duplication and broken connection.
 The way I wish it would work, and the way that I was trying to describe
 in my last post is this: when Dave comments on my blog post, the comment
@@ -80,8 +78,7 @@ The components of my vision:
     non-modal WYSIWYG rich text field. (Alternatively, it could open a
     new window for the text editor.) Optional title field, optional body
     field. Optional tag field. Any post made from the UA would be
-    published on the personal blog. Dave Winer's [Minimal Blogging
-    Tool](http://scripting.com/stories/2011/01/05/upcomingTheMinimalBlogging.html)
+    published on the personal blog. Dave Winer's [Minimal Blogging Tool](http://scripting.com/stories/2011/01/05/upcomingTheMinimalBlogging.html)
     comes from a similar line of thought, I think (the collapse in
     hierarchy between input and output by users).
 
@@ -171,8 +168,7 @@ Google to do it.[^4] Google already owns every necessary
 component: Chrome, Blogspot, Buzz, Contacts, and Profiles. And maybe
 even a protocol to connect all of it, similarly to how I describe:
 PubSubHubbub. And, indeed, they seem to be at the beginning of a slow
-process of rolling out some sort of identity service, either in the [top
-bar](http://blog.byjoemoon.com/post/3357516295/%22http://techcrunch.com/2011/02/16/google-new-toolbar/)
+process of rolling out some sort of identity service, either in the [top bar](http://blog.byjoemoon.com/post/3357516295/%22http://techcrunch.com/2011/02/16/google-new-toolbar/)
 of different Google services, or in the form of a toolbar.
 
 The only thing really missing is a decentralized/federated way for

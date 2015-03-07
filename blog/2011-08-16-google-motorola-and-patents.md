@@ -10,8 +10,7 @@ But before I go into the issue of patents more broadly, let's take a
 quick look at what Google is buying exactly.
 
 Motorola Mobility (MMI), which was the handset and cable box division of
-Motorola, spun off [early this
-year](http://www.computerworld.com/s/article/9203142/Motorola_Mobility_completes_spinoff_from_parent_company_).
+Motorola, spun off [early this year](http://www.computerworld.com/s/article/9203142/Motorola_Mobility_completes_spinoff_from_parent_company_).
 Motorola obviously has a long history in the mobile industry (they own
 the now expired patent on the cell phone) and have a deep and presumably
 strong patent portfolio. This includes about 14,300 patents, and 6,700
@@ -46,21 +45,18 @@ huge win. Despite its success with its Droid handsets, MMI hasn't been
 profitable and has in fact been looking for a buyer since at least last
 year. They clearly saw Google's (specifically Android's) recent patent
 problems as an opportunity and seized it. MMI CEO Sanjay Jha's recent
-[public
-statements](http://www.unwiredview.com/2011/08/11/motorolas-sanjay-jha-openly-admits-they-plan-to-collect-ip-royalties-from-other-android-makers/)
+[public statements](http://www.unwiredview.com/2011/08/11/motorolas-sanjay-jha-openly-admits-they-plan-to-collect-ip-royalties-from-other-android-makers/)
 about suing Android manufacturers over IP were probably part of the
 negotiations.
 
 The recent escalation of the tech patent war was quite a boon for MMI.
-[Ars Technica
-estimates](http://arstechnica.com/tech-policy/news/2011/08/what-google-lostand-gainedby-not-buying-moto-in-2010.ars)
+[Ars Technica estimates](http://arstechnica.com/tech-policy/news/2011/08/what-google-lostand-gainedby-not-buying-moto-in-2010.ars)
 that Google could have bought MMI last year for $6B less.
 
 ### Android
 
 What does this mean for Android?[^1] Google has somewhat
-[contradictory
-things](http://googleblog.blogspot.com/2011/08/supercharging-android-google-to-acquire.html)
+[contradictory things](http://googleblog.blogspot.com/2011/08/supercharging-android-google-to-acquire.html)
 to say about the acquisition.
 
 > "Together, we will create amazing user experiences…"
@@ -157,10 +153,7 @@ A class of people this is great for? Lawyers.
     acquisition to push the entire industry into a less fragmented
     ecosystem. 
 
-[^2]: [Their public
-    statements](http://www.google.com/press/motorola/quotes/) are
+[^2]: [Their public statements](http://www.google.com/press/motorola/quotes/) are
     basically meaningless PR speak, which journalists seem to be
     interpreting according to their respective prejudices. I don't think
     there's any information you can really get out of them. 
-
-

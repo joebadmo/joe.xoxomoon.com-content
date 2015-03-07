@@ -121,8 +121,7 @@ is today, and I think the necessary client and server technology is only
 now becoming fast/cheap enough for this to be really productized for the
 consumer.
 
-Apple does seem to be gesturing in this direction with [their
-release](http://thisismynext.com/2011/06/06/mac-os-lion-server-runs-50-july-adds-ipad-file-sharing-ios-push-notification-support/)
+Apple does seem to be gesturing in this direction with [their release](http://thisismynext.com/2011/06/06/mac-os-lion-server-runs-50-july-adds-ipad-file-sharing-ios-push-notification-support/)
 of Mac OS X Lion Server for $50. But Apple's core competency is in the
 narrow user experience of the robust client and, again, the company only
 seems to be interested in using cloud technologies to make that
@@ -143,8 +142,7 @@ It's going to take a while, but it's happening. They're certainly still
 profitable and will be for a while, but the market trends are pretty
 clear.
 
-As Nick [points
-out](http://blog.byjoemoon.com/post/6228050657/windows-8#comment-219607914),
+As Nick [points out](http://blog.byjoemoon.com/post/6228050657/windows-8#comment-219607914),
 Microsoft is moving toward a full cloud business, Azure, with Windows 8
 as a stopgap. But the model isn't Microsoft's core competency the way it
 is Google's (or even Amazon's), and it seems unlikely that Microsoft

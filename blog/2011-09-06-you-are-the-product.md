@@ -7,8 +7,7 @@ In a talk last Friday at the
 [dConstruct](http://2011.dconstruct.org/conference/don-norman)
 conference, design luminary Don Norman repeated an increasingly popular
 refrain about Google: "[In] fact, the advertisers are the users and you
-are the product." It's the kind of glib soundbite that [certain
-bloggers](http://daringfireball.net/linked/2011/09/05/norman-google)
+are the product." It's the kind of glib soundbite that [certain bloggers](http://daringfireball.net/linked/2011/09/05/norman-google)
 can't resist, but collapses on close scrutiny.
 
 The argument goes something like this: You are only truly a company's
@@ -103,7 +102,6 @@ via
 
 [^1]: The most dishonest part about someone like John Gruber making this
     argument is that Daring Fireball is, of course, wholly ad-supported.
-    
 
 [^2]: To a large degree, I find Google's gathering of my information -- my
     personal data, my browsing habits, my interests -- to be mostly

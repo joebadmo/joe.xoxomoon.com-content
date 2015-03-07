@@ -3,9 +3,7 @@ title: Rationality Engine
 alias: /post/4202820512/rationality-engine
 ---
 
-Paul Graham's [essay on
-disagreement](http://paulgraham.com/disagree.html), the discussion C-Rob
-started
+Paul Graham's [essay on disagreement](http://paulgraham.com/disagree.html), the discussion C-Rob started
 [here](http://cgr.tumblr.com/post/3760719822/notes-toward-a-better-online-discussion-solution),
 [an
 interview](http://techzinglive.com/page/692/113-tz-interview-jeff-atwood-stack-exchange)
@@ -13,16 +11,14 @@ with [Jeff Atwood](http://www.codinghorror.com/blog/) I heard recently,
 and a comment by Jake on GReader got me thinking about debate, though
 really more about how debate is sort of an implementation of
 rationality. Rationality, I think, is sort of self-evidently important,
-but not easy. Humans have [natural cognitive
-biases](http://en.wikipedia.org/wiki/List_of_cognitive_biases) that are
+but not easy. Humans have [natural cognitive biases](http://en.wikipedia.org/wiki/List_of_cognitive_biases) that are
 hard to recognize, especially in oneself. Also, so much of our
 collective brainpower and discussion is spent/wasted on faulty arguments
 and corrections thereof. We could spend so much more of our cognition
 and time more effectively if we could cut the argumentational fat.
 
 So, how to learn to think more rationally? I idly peruse sites like
-[Less Wrong](http://lesswrong.com/) and [Overcoming
-Bias](http://www.overcomingbias.com/) and I often find the articles to
+[Less Wrong](http://lesswrong.com/) and [Overcoming Bias](http://www.overcomingbias.com/) and I often find the articles to
 be interesting, but they're very often dry, difficult to digest, and
 even more difficult to apply.
 
@@ -82,9 +78,7 @@ with the internet. Time to climb the tree.[^3]
 
 [^2]: In the above-mentioned interview, Jeff Atwood, co-founder of Q&A
     site [Stack Exchange](http://stackexchange.com/) talks about how a
-    little bit of gamification encouraged [the collaborative creation of
-    an incredibly rich (the richest?) resource for
-    programmers](http://stackoverflow.com/), both as a static repository
+    little bit of gamification encouraged [the collaborative creation of an incredibly rich (the richest?) resource for programmers](http://stackoverflow.com/), both as a static repository
     for knowledge and as a place to get help from other users of the
     site. 
 

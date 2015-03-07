@@ -19,9 +19,7 @@ to the extent that Google is good for it.
 The search engine's ranking algorithm, PageRank, measures 'relevancy.'
 It began with the simple insight that the more links there are to a
 particular page, the more important it is, but the algorithm very
-quickly became increasingly sophisticated, and it now considers ["more
-than 500 million variables and 2 billion
-terms."](http://en.wikipedia.org/wiki/PageRank#Description)
+quickly became increasingly sophisticated, and it now considers ["more than 500 million variables and 2 billion terms."](http://en.wikipedia.org/wiki/PageRank#Description)
 
 Google's relationship with the web is symbiotic. The web became useable
 in no small part because Google made it possible to find relevant
@@ -62,8 +60,7 @@ The inevitable conclusion of this process is automatically generated,
 demand-invoked content that's indistinguishable or better than anything
 people can provide.
 
-Not only that, but in [December
-2009](http://searchengineland.com/google-now-personalizes-everyones-search-results-31195),
+Not only that, but in [December 2009](http://searchengineland.com/google-now-personalizes-everyones-search-results-31195),
 Google began to personalize search results according to users'
 locations, search histories, social graphs, etc. As the search profile
 becomes more extensive, the personal search algorithm becomes more
@@ -78,8 +75,7 @@ waxes, so does its responsibility. It's not hard to imagine a dystopian
 future where the entire web devolves into a broad, shallowly addictive
 ad-ridden hell (this already describes some sectors of the web). Google
 would have to have an extremely long-term outlook to decide to serve as
-superego instead of as id to the web. But [maybe that's not so hard to
-imagine](http://searchengineland.com/video-inside-googles-self-driving-cars-66806)
+superego instead of as id to the web. But [maybe that's not so hard to imagine](http://searchengineland.com/video-inside-googles-self-driving-cars-66806)
 either.
 
 ### Ads
@@ -99,8 +95,7 @@ advertiser if they are exposed where they wouldn't be organically, i.e.
 where they are irrelevant, or distracting.
 
 The other tension is one that stems from something I briefly touched on
-in [another
-post](http://blog.byjoemoon.com/post/6542036868/project-depth): Google
+in [another post](http://blog.byjoemoon.com/post/6542036868/project-depth): Google
 wants to encourage quality in the web and provide a good user experience
 so that people continue to use the web and its services. Simultaneously,
 Google wants to extract the most value from the user by exposing her to
@@ -123,26 +118,21 @@ the highest quality product in order to invoke desire and spending the
 least amount of money possible in its production. And maybe Google is
 culturally constituted to thinking in uniquely long-term ways that
 ultimately make everyone better off. The recent battle with SEO-driven
-content farms that resulted in the ['Panda'
-update](http://searchengineland.com/why-google-panda-is-more-a-ranking-factor-than-algorithm-update-82564)
+content farms that resulted in the ['Panda' update](http://searchengineland.com/why-google-panda-is-more-a-ranking-factor-than-algorithm-update-82564)
 to the search algorithm would seem to indicate so.[^4] But I
 imagine it's easy to think long-term when you're succeeding. We'll see
 what happens when the success inevitably slows.
 
 ### Notes
 
-[^1]: Google's ranking algorithm was based on earlier ideas: [citation
-    analysis](http://en.wikipedia.org/wiki/Citation_analysis) and
-    [Hyperlink-Induced Topic Search
-    (HITS)](http://en.wikipedia.org/wiki/HITS_algorithm).
-    
+[^1]: Google's ranking algorithm was based on earlier ideas: [citation analysis](http://en.wikipedia.org/wiki/Citation_analysis) and
+    [Hyperlink-Induced Topic Search (HITS)](http://en.wikipedia.org/wiki/HITS_algorithm).
 
 [^2]: I'm not competent to speak to whether that's possible in either
     case. 
 
 [^3]: The auction part, which helps Google maximize its profits, is also
     really important, but I would say secondarily so.
-    
 
 [^4]: More cynically, you could call it a response to growing criticism
     about search quality. 

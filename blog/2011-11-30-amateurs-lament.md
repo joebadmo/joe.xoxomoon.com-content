@@ -8,8 +8,8 @@ Fire](http://www.youtube.com/watch?v=jUtmOApIslE) opens with a Voltaire
 quote:
 
 > The instruction we find in books is like fire. We fetch it from our
-> neighbors, kindle it at home, communicate it to others, and it becomes
-> property of all.
+neighbors, kindle it at home, communicate it to others, and it becomes
+property of all.
 
 ### Visions of the Future
 
@@ -38,8 +38,7 @@ experience that makes the devices attractive.
 The iPad is physically not much more than a touchscreen, which is
 primarily just a screen with the addition of an input system. While the
 direct-manipulation paradigm is indisputably more intuitive, it's also
-[less
-robust](http://blog.byjoemoon.com/post/9325300749/a-different-kind-of-gui).
+[less robust](http://blog.byjoemoon.com/post/9325300749/a-different-kind-of-gui).
 You simply can't get the precision of a mouse, or the tactile feedback
 of a physical keyboard. It's a user-interface optimized for consumption
 and shallow interactions like navigation. Which isn't to say that it's
@@ -145,30 +144,22 @@ convince enough people that this is worth doing.
 
 ### More Reading on Amazon
 
--   [Interview of Amazon CEO Jeff
-    Bezos](http://www.wired.com/magazine/2011/11/ff_bezos/all/1) by
+-   [Interview of Amazon CEO Jeff Bezos](http://www.wired.com/magazine/2011/11/ff_bezos/all/1) by
     Steven Levy
--   ["What Would Happen if Amazon Ruled
-    Publishing?"](http://www.theatlantic.com/technology/archive/2011/10/what-would-happen-if-amazon-ruled-publishing/246854/)
+-   ["What Would Happen if Amazon Ruled Publishing?"](http://www.theatlantic.com/technology/archive/2011/10/what-would-happen-if-amazon-ruled-publishing/246854/)
     by Rebecca J. Rosen
--   ["The E-Reader of Sand: The Kindle and the Inner Conflict Between
-    Consumer and
-    Booklover,"](http://www.themillions.com/2011/08/the-e-reader-of-sand-the-kindle-and-the-inner-conflict-between-consumer-and-booklover.html)
+-   ["The E-Reader of Sand: The Kindle and the Inner Conflict Between Consumer and Booklover,"](http://www.themillions.com/2011/08/the-e-reader-of-sand-the-kindle-and-the-inner-conflict-between-consumer-and-booklover.html)
     Mark O'Connell on the Kindle as Borgesian "Book of Sand"
 
 ### More Reading on "Post-PC"
 
--   Hacker News thread on ["Why I'm scared of the post-PC
-    era."](http://news.ycombinator.com/item?id=3113192)
--   Hacker News thread on ["The post-PC
-    era"](http://news.ycombinator.com/item?id=2955472)
--   ["The PC is dead. Why no angry
-    nerds?"](http://futureoftheinternet.org/the-pc-is-dead-why-no-angry-nerds)
+-   Hacker News thread on ["Why I'm scared of the post-PC era."](http://news.ycombinator.com/item?id=3113192)
+-   Hacker News thread on ["The post-PC era"](http://news.ycombinator.com/item?id=2955472)
+-   ["The PC is dead. Why no angry nerds?"](http://futureoftheinternet.org/the-pc-is-dead-why-no-angry-nerds)
     by Jonathan Zittrain
 
 ### More Reading
 
 -   ["World without web"](http://esr.ibiblio.org/?p=3335) by Eric S.
     Raymond
--   Tim Wu on [*The Master
-    Switch*](http://bits.blogs.nytimes.com/2010/11/14/one-on-one-tim-wu-author-of-the-master-switch/)
+-   Tim Wu on [*The Master Switch*](http://bits.blogs.nytimes.com/2010/11/14/one-on-one-tim-wu-author-of-the-master-switch/)

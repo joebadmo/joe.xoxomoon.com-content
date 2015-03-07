@@ -4,8 +4,7 @@ alias: /post/7072771434/a-new-metaphor-for-social-networking
 ---
 
 Yesterday, Google launched [Google+](https://plus.google.com/), which,
-according to [Steven Levy's Wired
-article](http://www.wired.com/epicenter/2011/06/inside-google-plus-social/all/1),
+according to [Steven Levy's Wired article](http://www.wired.com/epicenter/2011/06/inside-google-plus-social/all/1),
 is less of a product and more of a new direction for the search company,
 a redefinition of its approach to its core mission of "organizing the
 world's information." Treating a social networking product as an

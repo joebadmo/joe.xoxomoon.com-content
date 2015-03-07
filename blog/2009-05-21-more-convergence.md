@@ -60,14 +60,12 @@ should be public, but there's no real reason for a lot of it to be
 private, and if it's in the public, it can potentially engage and
 connect many people who might otherwise be unaware of each other.
 
-Also, [Twitter
-comments](http://www.readwriteweb.com/archives/integrate_twitter_comments_int.php)
+Also, [Twitter comments](http://www.readwriteweb.com/archives/integrate_twitter_comments_int.php)
 becoming a standard would be cool (I'm looking into implementing it
 here[^1]). This would expose stuff about what you're reading and
 commenting on to your Twitter stream, creating a conversation space on
 Twitter about a post, and also provides an element of persistent online
-identity that I've [written about
-before](http://blog.byjoemoon.com/post/100514718/persistent-online-identity).
+identity that I've [written about before](http://blog.byjoemoon.com/post/100514718/persistent-online-identity).
 I can even imagine some sort of trackback system implementation that
 aggregates commenting on a subject across websites to make one giant
 conversation about a *subject* as opposed to a particular blog post or
@@ -75,8 +73,7 @@ whatever.
 
 Twitter's simplicity allows it to be extremely flexible, which is why
 it's already being used in so many different ways, and what gives it so
-much potential. And also [why it should become an open
-protocol](http://regulargeek.com/2009/02/25/twitter-is-not-broken-it-is-infrastructure/),
+much potential. And also [why it should become an open protocol](http://regulargeek.com/2009/02/25/twitter-is-not-broken-it-is-infrastructure/),
 like email.
 
 Aside: I'm wondering if anyone uses the "Favorites" functionality of

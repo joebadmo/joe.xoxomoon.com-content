@@ -11,9 +11,7 @@ Timeline, Ticker, and Open Graph.
 Timeline is a replacement for the profile page that collects and
 displays your Facebook status updates, photos, links, etc. in a clean,
 easily perusable way. One of the first things I thought of after seeing
-[the announcement](http://www.facebook.com/about/timeline), was [this
-"Dear Sophie" ad](http://www.youtube.com/watch?v=GIHq8nry9hY) from
-Google.
+[the announcement](http://www.facebook.com/about/timeline), was [this "Dear Sophie" ad](http://www.youtube.com/watch?v=GIHq8nry9hY) from Google.
 
 Superficially, they're very similar. Both showcase the use of technology
 to capture meaningful events and share them. Even the types of
@@ -24,8 +22,7 @@ services.
 The "Dear Sophie" ad shows technology in service of creating records and
 sharing moments in an intimate way, and ends with the sentiment: "The
 web is what you make of it." While the Timeline promotional video shows
-similar vignettes, [Mark Zuckerberg's
-presentation](http://www.youtube.com/watch?v=v67PFmVvqDs) closes the
+similar vignettes, [Mark Zuckerberg's presentation](http://www.youtube.com/watch?v=v67PFmVvqDs) closes the
 video with: "Timeline is the story of your life. It has three pieces:
 all your stories, your apps and a new way to express who you are."
 
@@ -58,8 +55,7 @@ watching a video, playing a game.
 Zuckerberg refers to this as "frictionless sharing," a dream of a kind
 of meta-panopticon with which everyone can see what everyone else is
 doing in real time. There are parts of this that I actually find kind of
-compelling. The Ticker is a nod toward "[ambient
-intimacy](http://www.disambiguity.com/ambient-intimacy/)" the idea that
+compelling. The Ticker is a nod toward "[ambient intimacy](http://www.disambiguity.com/ambient-intimacy/)" the idea that
 you can approximate the low-level intimacy of occupying the same space
 as someone, in a digital way.
 
@@ -118,26 +114,20 @@ what this kind of technology is supposed to enable.
 
 [Not Sharing is Caring](http://www.slate.com/id/2304425/), Farhad Manjoo
 
-[It's the end of the web as we know
-it](http://adrianshort.co.uk/2011/09/25/its-the-end-of-the-web-as-we-know-it/),
+[It's the end of the web as we know it](http://adrianshort.co.uk/2011/09/25/its-the-end-of-the-web-as-we-know-it/),
 Adrian Short
 
 ### Notes
 
 [^1]: There's a lot more to unpack about this, but that would be another
     essay, and I think others are saying it better than I can. For
-    example: [@boone](https://twitter.com/#!/boone): [The idea that life
-    narrative should be loosely joined out of small anecdotal pieces
-    over long periods of time is a non-trivial
-    thesis.](https://twitter.com/#!/boone/statuses/118794804510466048)
+    example: [@boone](https://twitter.com/#!/boone): [The idea that life narrative should be loosely joined out of small anecdotal pieces over long periods of time is a non-trivial thesis.](https://twitter.com/#!/boone/statuses/118794804510466048)
     (There's more good stuff in his tweet stream.)
-    
 
 [^2]: While it's true that you have to explicitly white-list apps that
     post to your Ticker, the uncertainty about whether the next click
     will be public or not that results from any sort of auto-sharing
     system is almost worse than everything being public.
-    
 
 [^3]: It seems pertinent to note that Google+ actually *adds* friction to
     sharing by making you explicitly think about which Circle to share

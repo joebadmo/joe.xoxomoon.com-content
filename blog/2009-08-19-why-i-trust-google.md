@@ -7,9 +7,9 @@ From [this article](http://www.joelonsoftware.com/articles/StrategyLetterV.html)
 that Nick shared a while ago:
 
 > Every product in the marketplace has *substitutes* and *complements*…
-> A complement is a product that you usually buy together with another
-> product. Gas and cars are complements. Computer hardware is a classic
-> complement of computer operating systems…
+A complement is a product that you usually buy together with another
+product. Gas and cars are complements. Computer hardware is a classic
+complement of computer operating systems…
 
 Demand for a product increases when the prices of its complements
 decrease. For example, if flights to Miami become cheaper, demand for

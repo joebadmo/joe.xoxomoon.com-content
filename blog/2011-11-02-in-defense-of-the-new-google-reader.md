@@ -3,8 +3,7 @@ title: In Defense of the New Google Reader
 alias: /post/12261287667/in-defense-of-the-new-google-reader
 ---
 
-Brian Shih, a former PM for Google Reader, wrote [a scathing take-down
-of the recent changes to Google Reader](http://brianshih.com/78073742)
+Brian Shih, a former PM for Google Reader, wrote [a scathing take-down of the recent changes to Google Reader](http://brianshih.com/78073742)
 on Monday.
 
 And plenty of his criticisms are well deserved. It's certainly true that
@@ -29,8 +28,7 @@ differences between the two products, and others that simply get the
 facts wrong.
 
 First, he complains that the new sharing flow makes sharing items
-*harder*. Fair enough. But, as I wrote in [an earlier blog
-post](http://blog.byjoemoon.com/post/10755504272/intimacy-and-performance-on-facebook),
+*harder*. Fair enough. But, as I wrote in [an earlier blog post](http://blog.byjoemoon.com/post/10755504272/intimacy-and-performance-on-facebook),
 this is purposeful. It adds friction at the point of sharing, makes you
 pause to consider who the audience for this particular item is. Which is
 how it should be.[^2]
@@ -60,8 +58,7 @@ consume, +1, and share all my content through Reader's interface, and
 not have to visit the G+ site ever again.
 
 The one glaring omission from the new sharing model to me is the
-omission of an important point on [the spectrum
-public-ness](http://blog.byjoemoon.com/post/582452757/webs-and-streams):
+omission of an important point on [the spectrum public-ness](http://blog.byjoemoon.com/post/582452757/webs-and-streams):
 public but not broadcast. Under G+ now, if I want to share an item
 publicly, I am also thrusting it in front of everyone who has me
 circled. But sometimes I don't want to do that. Sometimes I want to
@@ -79,8 +76,7 @@ way.
 
 Google is notorious for releasing new products that seem half-baked.
 Only a few days after the public outcry over changes in Reader, there is
-[a new
-one](http://www.theverge.com/2011/11/2/2533292/gmail-app-iphone-ipad)
+[a new one](http://www.theverge.com/2011/11/2/2533292/gmail-app-iphone-ipad)
 over the new native Gmail client for iOS. Google does this a lot. But it
 also iterates on these products at a furious rate. And it appears to do
 this in reponse to public feedback. Again, the new Gmail redesign has

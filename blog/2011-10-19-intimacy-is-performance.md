@@ -3,9 +3,7 @@ title: Intimacy is Performance
 alias: /post/11670022371/intimacy-is-performance
 ---
 
-I was surprised to find a lot of interesting discussion around [my last
-post about Intimacy and Performance on
-Facebook](http://blog.byjoemoon.com/post/10755504272/intimacy-and-performance-on-facebook).
+I was surprised to find a lot of interesting discussion around [my last post about Intimacy and Performance on Facebook](http://blog.byjoemoon.com/post/10755504272/intimacy-and-performance-on-facebook).
 Some of it was about the distinction between 'intimacy' and
 'performance' and a lot was about
 [mediated](http://www.susansontag.com/SusanSontag/books/onPhotographyExerpt.shtml)
@@ -52,8 +50,7 @@ world of online social networking does not map to the offline very well.
 Chris Poole, founder of 4chan,
 [provided](http://www.readwriteweb.com/archives/4chans_chris_poole_facebook_google_are_doing_it_wr.php)
 one interesting criticism at Web 2.0 conference, which @dannygilligan
-[sums up
-nicely](https://twitter.com/#!/dannygilligan/statuses/126075365318852608)
+[sums up nicely](https://twitter.com/#!/dannygilligan/statuses/126075365318852608)
 on Twitter: "Sharing on the web not a question of who you share with but
 who you share as." But that's only half-correct. The fact is, offline
 these two concepts "who you share with" and "who you share as" are
@@ -61,9 +58,7 @@ really the same thing: context. It's only online that they're separated
 artificially, and this asymmetry is one of the limits of the digital
 social medium.
 
-Many of these limits are ones of sharp distinction: [between private and
-public; and between one-to-one and
-one-to-all](http://blog.byjoemoon.com/post/582452757/webs-and-streams).
+Many of these limits are ones of sharp distinction: [between private and public; and between one-to-one and one-to-all](http://blog.byjoemoon.com/post/582452757/webs-and-streams).
 While things like email lists made the representation of different
 contexts possible, they didn't make it easy or frictionless. Facebook
 and Google+, with their respective list features, each take a step
@@ -130,12 +125,10 @@ will be more or less digitally present depending on what we're doing and
 what kind of access we have at any given point. This is already true
 enough that the idea of going completely 'off the grid' for some amount
 of time is increasingly popular and we are already starting develop
-[social
-norms](http://www.nytimes.com/2010/12/12/fashion/12THISLIFE.html?pagewanted=all)
+[social norms](http://www.nytimes.com/2010/12/12/fashion/12THISLIFE.html?pagewanted=all)
 on behavior related to immediate level of physical-digital presence.
 
-Nathan Jurgenson, who writes about "[digital
-dualism](http://thesocietypages.org/cyborgology/2011/02/24/digital-dualism-versus-augmented-reality/)"
+Nathan Jurgenson, who writes about "[digital dualism](http://thesocietypages.org/cyborgology/2011/02/24/digital-dualism-versus-augmented-reality/)"
 on [his blog](http://thesocietypages.org/cyborgology/), emphasizes that
 the distinction is artificial.[^2] I sort of disagree. I think
 the virtual is currently another context with varying degrees of overlap
@@ -158,8 +151,7 @@ in placing yourself in and managing your social context.
 
 ### Further Reading
 
-1.  [Alexis Madrigal on
-    identity](http://www.theatlantic.com/technology/archive/2011/10/does-facebook-emphasize-the-me-or-the-i/246467/).
+1.  [Alexis Madrigal on identity](http://www.theatlantic.com/technology/archive/2011/10/does-facebook-emphasize-the-me-or-the-i/246467/).
 2.  [danah boyd](http://www.danah.org/)'s
     [thesis](http://smg.media.mit.edu/people/danah/thesis/) on "Managing
     representation in a digital world."
@@ -169,8 +161,7 @@ in placing yourself in and managing your social context.
 [^1]: [Fascinating research by danah boyd on teenagers' risk reduction strategies on Facebook.](http://www.zephoria.org/thoughts/archives/2010/11/08/risk-reduction-strategies-on-facebook.html)
     
 
-[^2]: [William Gibson on the subject of
-    cyborgs](http://www.williamgibsonbooks.com/archive/2003_01_28_archive.asp):
+[^2]: [William Gibson on the subject of cyborgs](http://www.williamgibsonbooks.com/archive/2003_01_28_archive.asp):
     "The real cyborg, cybernetic organism in the broader sense, had been
     busy arriving as I watched DR. SATAN on that wooden television in 1952. I was becoming a part of something, in the act of watching
     that screen. We all were. We are today. The human species was

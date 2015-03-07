@@ -77,8 +77,7 @@ shorter. These forces feed on 'eyeballs' and 'clicks' and measure us in
 aggregate. It seems unlikely that we can change that.
 
 But there are countervailing forces. Some commercial ones, like
-[Flickr](http://flickr.com) and [Stack
-Exchange](http://stackexchange.com/),[^4] harness the power of
+[Flickr](http://flickr.com) and [Stack Exchange](http://stackexchange.com/),[^4] harness the power of
 communities to dig deep mines of richness on the web. Others are
 non-commercial, like Wikipedia. Many come from people scratching their
 own itches: [Readability](https://www.readability.com/) and
@@ -91,8 +90,7 @@ of time to improve task focus; and services like
 [delivereads](http://delivereads.com/) that encourage deep reading of
 long form journalism. Physical devices that enable depth are becoming
 wildly popular: the Kindle is an obvious example, as is the iPad, which,
-despite [my
-misgivings](http://blog.byjoemoon.com/post/5442955515/holding-the-web-in-your-hands),
+despite [my misgivings](http://blog.byjoemoon.com/post/5442955515/holding-the-web-in-your-hands),
 enables an unprecedented immersion experience by presenting an intuitive
 and emotionally satisfying interaction model. And of course there are
 [others](http://cognitivesocialweb.com/home/2011/6/7/on-the-purpose-and-the-engine-of-the-web.html)
@@ -114,8 +112,7 @@ tools to so we don't have to. Can't hurt to try both.
     basically a custom tailored novelty aggregator and interruption
     machine, but others have covered this exhaustively, I think.
     Probably the canonical example is Nicholas Carr's [*The Shallows:
-    What the Internet is Doing to Our
-    Brains*](http://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393072223).
+    What the Internet is Doing to Our Brains*](http://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393072223).
     
 [^4]: Probably not deep on either of the vectors I've enumerated, but
     Stack Exchange was built as a direct response to the shallow
