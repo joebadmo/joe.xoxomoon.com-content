@@ -37,8 +37,7 @@ a few corporations own all the infrastructure (and can subsequently
 charge 20 cents per text message, which is madness).
 
 I separately started thinking about the recent proposal by Kevin Martin,
-chairman of the FCC (who is apparently [still talking about
-it](http://news.slashdot.org/article.pl?sid=08/12/30/2335200&from=rss),
+chairman of the FCC (who is apparently [still talking about it](http://news.slashdot.org/article.pl?sid=08/12/30/2335200&from=rss),
 and even willing to drop the censorship provision (though I never really
 cared, since his original proposal was opt-out)), to create a free
 nationwide broadband wi-fi network. I have erotic fantasies about this

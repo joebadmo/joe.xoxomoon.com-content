@@ -2,9 +2,7 @@
 title: We Are What We Choose
 alias: /post/12570867047/we-are-what-we-choose
 ---
-
-In [this post on
-Cyborgology](http://thesocietypages.org/cyborgology/2011/11/03/equipment-why-you-cant-convince-a-cyborg-shes-a-cyborg/),
+In [this post on Cyborgology](http://thesocietypages.org/cyborgology/2011/11/03/equipment-why-you-cant-convince-a-cyborg-shes-a-cyborg/),
 PJ Rey convincingly speaks to the project of dismissing the concept of
 digital dualism. He argues that as technology becomes sufficiently
 advanced and ubiquitous, we begin to think of it as natural extensions
@@ -19,12 +17,10 @@ Rings true for me. But more than anything else it emphasizes the
 importance of thinking carefully about the ways in which we are
 extending ourselves.
 
-Noam Chomsky
-[provoked](http://www.brightestyoungthings.com/articles/the-secret-of-noam-a-chomsky-interview.htm)
+Noam Chomsky [provoked](http://www.brightestyoungthings.com/articles/the-secret-of-noam-a-chomsky-interview.htm)
 a great discussion in the last few weeks by offhandedly dismissing new
 media as "extremely rapid, very shallow communication." Nathan Jurgenson
-[responded in a piece in
-Salon](http://www.salon.com/2011/10/23/why_chomsky_is_wrong_about_twitter/singleton/),
+[responded in a piece in Salon](http://www.salon.com/2011/10/23/why_chomsky_is_wrong_about_twitter/singleton/),
 talking about the great benefits of new media, e.g. its utility in
 popular movements like the Arab Spring and "Occupy" protests, as well as
 the biases inherent in Chomsky's somewhat crotchety dismissal.
@@ -37,9 +33,7 @@ the biases inherent in Chomsky's somewhat crotchety dismissal.
 > seem to know enough about the reality of social media to examine his
 > own assumptions.
 
-But ultimately I agree most with [this
-post](http://figureground.ca/2011/10/31/why-chomsky-is-wrong-about-twitter-a-rebuttal/)
-by Mike Plugh.
+But ultimately I agree most with [this post](http://figureground.ca/2011/10/31/why-chomsky-is-wrong-about-twitter-a-rebuttal/) by Mike Plugh.
 
 > Chomsky's critiques, while they seem to have some overtones of
 > morality, read in a particular way, aren't all that far off the mark.
@@ -99,16 +93,14 @@ they each encourage certain types of behavior. To quote
 > of sentiment, encourage pith over comprehensiveness, and discourage
 > real discourse, or any sort of conversation at all.
 
-[And the web itself sometimes seems inimical to depth of
-thought](http://blog.byjoemoon.com/post/6542036868/project-depth).
+[And the web itself sometimes seems inimical to depth of thought](http://blog.byjoemoon.com/post/6542036868/project-depth).
 
 That we are subsuming technologies into ourselves seems trivial compared
 to the point that what we are subsuming encourage us to think only in a
 certain way. If we examine carefully what we are becoming, I don't think
 we'll like what we find.
 
-And some, like [Nicholas
-Carr](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/6868/),
+And some, like [Nicholas Carr](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/6868/),
 have already, and they don't like what they find at all. He, and,
 presumably, Chomsky, would advocate, then, a retreat back to the old
 media. Full-length books are what encourage the deep, sustained
