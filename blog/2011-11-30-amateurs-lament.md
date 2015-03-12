@@ -3,8 +3,7 @@ title: An Amateur's Lament
 alias: /post/13581915694/an-amateurs-lament
 ---
 
-Amazon's [advertisement for the Kindle
-Fire](http://www.youtube.com/watch?v=jUtmOApIslE) opens with a Voltaire
+Amazon's [advertisement for the Kindle Fire](http://www.youtube.com/watch?v=jUtmOApIslE) opens with a Voltaire
 quote:
 
 > The instruction we find in books is like fire. We fetch it from our
