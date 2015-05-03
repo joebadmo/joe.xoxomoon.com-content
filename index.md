@@ -4,17 +4,29 @@ title: joe.xoxomoon.com
 
 ## about
 
-![Joe, Bev, and Zeke](https://lh3.googleusercontent.com/-xR5D8jUlHOc/UT7B1UII5cI/AAAAAAAAKyo/sJzka0VGc-0/s1011/DSC_8087.JPG)
+<div class="row">
 
-Hi. I'm Joe.
+<div class="six columns">
 
-I live in a little, old house in Portland, Oregon with my lovely wife Bev and our son Zeke.
+<p>Hi. I&#8217;m Joe.</p>
 
-I'm a "software" "engineer" for [AppNexus, Inc.](http://www.appnexus.com/)
+<p>I live in a little, old house in Portland, Oregon with my lovely wife Bev and our son Zeke.</p>
 
-Like any good Portlander, I enjoy drinking good coffee, eating well, and commuting by bicycle.
+<p>I&#8217;m a &#8220;software&#8221; &#8220;engineer&#8221; for <a href="http://www.appnexus.com/">AppNexus, Inc.</a></p>
 
-In my free time I try to read, write (both prose and code), and climb rocks whenever I can.
+<p>Like any good Portlander, I enjoy drinking good coffee, eating well, and commuting by bicycle.</p>
+
+<p>In my free time I try to read, write (both prose and code), and climb rocks whenever I can.</p>
+
+</div>
+
+<div class="six columns">
+
+<img src="https://lh3.googleusercontent.com/-xR5D8jUlHOc/UT7B1UII5cI/AAAAAAAAKyo/sJzka0VGc-0/s1011/DSC_8087.JPG" alt="Me, Bev, and Zeke">
+
+</div>
+
+</div>
 
 ### bio
 
