@@ -4,6 +4,8 @@ title: joe.xoxomoon.com
 
 ## about
 
+![Joe, Bev, and Zeke](https://lh3.googleusercontent.com/-xR5D8jUlHOc/UT7B1UII5cI/AAAAAAAAKyo/sJzka0VGc-0/s1011/DSC_8087.JPG)
+
 Hi. I'm Joe.
 
 I live in a little, old house in Portland, Oregon with my lovely wife Bev and our son Zeke.
