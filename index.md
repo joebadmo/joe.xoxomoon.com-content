@@ -10,7 +10,7 @@ title: joe.xoxomoon.com
 
 <p>Hi. I&#8217;m Joe.</p>
 
-<p>I live in a little, old house in Portland, Oregon with my lovely wife Bev and our son Zeke.</p>
+<p>I live in a little, old house in Portland, Oregon with my lovely wife Bev and our children, Zeke and Bea.</p>
 
 <p>I&#8217;m a &#8220;software&#8221; &#8220;engineer&#8221; for <a href="http://www.appnexus.com/">AppNexus, Inc.</a></p>
 
@@ -30,9 +30,7 @@ title: joe.xoxomoon.com
 
 ### bio
 
-I was born in Seoul, S. Korea, but immigrated to the US at two months old.
-
-In September of 2002, I enlisted in the US Marine Corps Infantry. I served two tours in Iraq, and one in the West Pacific.
+I was in the US Marine Corps Infantry. I served two tours in Iraq, and one in the West Pacific.
 
 I earned my B.A. in Comparative Literature from the University of Washington in Seattle on the Montgomery GI Bill.
 
