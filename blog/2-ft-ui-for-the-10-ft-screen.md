@@ -84,34 +84,34 @@ might solve all my complaints.
 
 ### Notes
 
-[^1]: And iPod Touches. 
+[^1]: And iPod Touches.
 
 [^2]: Bev got me one for Valentine's Day.
-    
+
 
 [^3]: At least text entry was much easier; hitting a text field would
     invoke the touch screen keyboard.
-    
+
 
 [^4]: The ATV isn't actually a convergence device, since it doesn't take
     input from traditional signals like analog broadcast, cable, or
     peripheral physical media players, but it sort of will be if IPTV
-    ever becomes a reality. 
+    ever becomes a reality.
 
 [^5]: This is why WebTV failed, or at least why it sucked.
-    
+
 
 [^6]: Obviously because not everyone has one and shipping an iPod Touch
     equivalent as a remote is certainly cost-prohibitive.
-    
+
 
 [^7]: Also, some high-end universal remotes cost as much as iPod Touches.
-    
+
 
 [^8]: Which becomes more important as short web clips become a ubiquitous,
-    first-class medium. 
+    first-class medium.
 
 [^9]: Twitter with automatic hashtags for whatever you're watching?
-    
+
 
 [^10]: Like picture-in-picture, but more robust.
