@@ -7,6 +7,7 @@ layout: default
 <small>* In Pynchon's religious sense, not the grammatical one.</small>
 
 Hi. I'm Joe.
+{: #about}
 
 I live in a Portland, Oregon with my wife Bev and our kids, Zeke and Bea.
 
@@ -17,6 +18,7 @@ Like any good Portlander, I drinking good coffee, eating good food, and riding m
 In my free time I try to read, write (both prose and code), and climb rocks whenever I can.
 
 ### bio
+{: #bio}
 
 I was born in Seoul, S. Korea, but immigrated to the US at two months old.
 
@@ -29,6 +31,7 @@ I earned my B.A. in Comparative Literature from the University of Washington in 
 I built this site with [Elixir](http://elixir-lang.org/).
 
 ## code
+{: #code}
 
 I've been writing code for at least several weeks now. I have an opinion about punctuation in JavaScript.
 
@@ -37,6 +40,7 @@ I've been writing code for at least several weeks now. I have an opinion about p
 I generally work in [Neovim](https://neovim.io/) in a [tmux](http://tmux.sourceforge.net/) session running in [Zsh](http://www.zsh.org/) in [iTerm2](http://www.iterm2.com/#/section/home) on a Mac.
 
 ## prose
+{: #prose}
 
 ### technology
 
