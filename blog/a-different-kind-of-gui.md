@@ -16,13 +16,13 @@ For these historical reasons, the GUI has always been pointer-driven, at least w
 It's enlightening to consider what made the mouse such an indispensable companion to the GUI for so long.
 
 1. It's intuitive. It's easy to grasp the basic concept that the cursor
-    is an extension of the hand, that its motion corresponds to the
-    motion of the mouse.
+  is an extension of the hand, that its motion corresponds to the
+  motion of the mouse.
 2. All interactions are built on a minimal set of axiomatic actions:
-    move, hover, click, release, and drag.
+  move, hover, click, release, and drag.
 3. It provides highly precise and unrestricted motion of the cursor, as
-    opposed to a joystick, which limits the cursor's direction and
-    velocity.
+  opposed to a joystick, which limits the cursor's direction and
+  velocity.
 
 With careful application of the WIMP metaphor, these features made every
 aspect of a GUI accessible to the user. But this was only the minimal
@@ -56,35 +56,34 @@ But even aside from the unintuitiveness, there are a lot of reasons not
 to like the mouse:
 
 1. The arbitrary motion of a mouse cursor makes the effort analog, as
-    opposed to the digital motion of keying. Commands, even repetitive
-    ones, can't be relegated to muscle memory the way command line
-    commands or keyboard navigation can.
+  opposed to the digital motion of keying. Commands, even repetitive
+  ones, can't be relegated to muscle memory the way command line
+  commands or keyboard navigation can.
 2. Because of this, mousing is a conscious process. Hitting precise
-    targets takes a lot more cognitive effort and close attention than
-    keying.
+  targets takes a lot more cognitive effort and close attention than
+  keying.
 3. Moving the mouse hand back and forth between mouse and keyboard is
-    often an annoying cognitive task-switch and that breaks flow.
+  often an annoying cognitive task-switch and that breaks flow.
 4. The requirement of moving back and forth between mouse and keyboard
-    creates friction for typing. And since typing is one of the main
-    ways of producing content, this friction is a particular type that
-    only applies to production and not to consumption.
-5. It's slower, or feels slower. (According to [Bruce
-    Tognazzini](http://www.asktog.com/TOI/toi06KeyboardVMouse1.html),
-    Apple R&D found that mousing is in fact faster than keyboarding.
-    This strikes me as highly dubious today not only for all the reasons
-    given above, but also because the article is from 1989 and the
-    research is presumably from before that. I believe the research was
-    also done on non-expert users.
+  creates friction for typing. And since typing is one of the main
+  ways of producing content, this friction is a particular type that
+  only applies to production and not to consumption.
+5. It's slower, or feels slower. (According to [Bruce Tognazzini](http://www.asktog.com/TOI/toi06KeyboardVMouse1.html),
+  Apple R&D found that mousing is in fact faster than keyboarding.
+  This strikes me as highly dubious today not only for all the reasons
+  given above, but also because the article is from 1989 and the
+  research is presumably from before that. I believe the research was
+  also done on non-expert users.
 6. While the high degree of precision afforded by the mouse is a boon
-    to applications that benefit from it, as the dominant mode of
-    interaction, it forces that level of precision on every transaction.
-    For every dialogue box with two simple choices, for example, the
-    user still must traverse an arbitrary distance and hit a cursor
-    target that is tiny relative to the rest of the screen, which is,
-    for the transaction, completely unused. So to make an input that's
-    essentially a binary 0 or 1, the user in real terms has to make a
-    huge, well-calibrated, cognitively expensive analog input that's
-    largely wasted.
+  to applications that benefit from it, as the dominant mode of
+  interaction, it forces that level of precision on every transaction.
+  For every dialogue box with two simple choices, for example, the
+  user still must traverse an arbitrary distance and hit a cursor
+  target that is tiny relative to the rest of the screen, which is,
+  for the transaction, completely unused. So to make an input that's
+  essentially a binary 0 or 1, the user in real terms has to make a
+  huge, well-calibrated, cognitively expensive analog input that's
+  largely wasted.
 
 With OS X 10.7 Lion, Apple presents a clear and well-documented
 iOSification of OS X.[^2] A prominent sign to me is the seeming
@@ -130,29 +129,29 @@ interaction bandwidth.
 Some starting points:
 
 1. A purposefully high-bandwidth interaction model, i.e. a large but
-    consistent set of initial undiscoverable actions to learn, that, at
-    best, isn't meaningfully less 'intuitive,'[^4] but instead
-    simply has a learning curve with a different shape.[^5]
+  consistent set of initial undiscoverable actions to learn, that, at
+  best, isn't meaningfully less 'intuitive,'[^4] but instead
+  simply has a learning curve with a different shape.[^5]
 2. The mouse is too powerful to get rid of entirely. There are many
-    applications for which it is an ideal or at least very appropriate
-    input device, such as graphics rendering, photo manipulation, and
-    first-person shooters. So, to minimize travel between mouse and
-    keyboard, functions of the mouse and the mouse-hand side of the
-    keyboard should overlap as much as possible. These probably include:
-    motion and selection.
+  applications for which it is an ideal or at least very appropriate
+  input device, such as graphics rendering, photo manipulation, and
+  first-person shooters. So, to minimize travel between mouse and
+  keyboard, functions of the mouse and the mouse-hand side of the
+  keyboard should overlap as much as possible. These probably include:
+  motion and selection.
 3. I'll revisit [10/GUI](http://10gui.com/) again, for some of the
-    fantastic insights therein:
-    -   Single axis of windows (Con10uum).
-    -   Different levels of interaction.
+  fantastic insights therein:
+  - Single axis of windows (Con10uum).
+  - Different levels of interaction.
 
 4. Direct manipulation interfaces suggest that cursors are unnecessary.
-    In our thought experiment, they would probably exist only in certain
-    applications, specifically mouse-based ones.
+  In our thought experiment, they would probably exist only in certain
+  applications, specifically mouse-based ones.
 5. We can draw inspiration from keyboard-only UIs.
-    -   [Vim](http://www.vim.org/) is a venerable text editor that I've
-        recently converted to. Its interface is modal, and its main mode
-        of operation is through a command-based console.
-    -   Windows' keyboard access of menus, with visual indicators.
+  - [Vim](http://www.vim.org/) is a venerable text editor that I've
+    recently converted to. Its interface is modal, and its main mode
+    of operation is through a command-based console.
+  - Windows' keyboard access of menus, with visual indicators.
 
 ### Fresh Start
 
@@ -247,54 +246,44 @@ Illustrations by Chris Klink.
 
 ### Further Reading
 
-1. Christopher Mims. ["Is the Desktop Having an Identity
-    Crisis?"](http://www.technologyreview.com/computing/38047/). *MIT
-    Technology Review*. July 18, 2011.
-2. Wikipedia. ["History of the
-    GUI"](http://en.wikipedia.org/wiki/History_of_the_graphical_user_interface).
-3. Jeremy Reimer. ["A History of the
-    GUI"](http://arstechnica.com/old/content/2005/05/gui.ars).
-4. Brad A. Myers. ["A Brief History of Human Computer Interaction
-    Technology"](http://www.cs.cmu.edu/~amulet/papers/uihistory.tr.html).
-    *ACM interactions.* Vol. 5, no. 2, March, 1998. pp. 44–54.
+1. Christopher Mims. ["Is the Desktop Having an Identity Crisis?"](http://www.technologyreview.com/computing/38047/). *MIT Technology Review*. July 18, 2011.
+2. Wikipedia. ["History of the GUI"](http://en.wikipedia.org/wiki/History_of_the_graphical_user_interface). 3. Jeremy Reimer. ["A History of the GUI"](http://arstechnica.com/old/content/2005/05/gui.ars).
+4. Brad A. Myers. ["A Brief History of Human Computer Interaction Technology"](http://www.cs.cmu.edu/~amulet/papers/uihistory.tr.html). *ACM interactions.* Vol. 5, no. 2, March, 1998. pp. 44–54.
 
 ### Notes
 
 [^1]: Arthur C. Clark famously
-    [said](http://en.wikipedia.org/wiki/Clarke's_three_laws): "Any
-    sufficiently advanced technology is indistinguishable from magic."
-    An abstract description of how this works is that a new technology
-    is initially simple, then accumulates additional functionality. As
-    its functionality grows, its operation becomes more complex. It then
-    requires a more expert user to take advantage of the added
-    functionality. But after a certain point, further advancements
-    address this complexity of operation by internalizing it. This makes
-    the technology simple to use for lay users, but in an opaque,
-    'magical' way. 
+  [said](http://en.wikipedia.org/wiki/Clarke's_three_laws): "Any
+  sufficiently advanced technology is indistinguishable from magic."
+  An abstract description of how this works is that a new technology
+  is initially simple, then accumulates additional functionality. As
+  its functionality grows, its operation becomes more complex. It then
+  requires a more expert user to take advantage of the added
+  functionality. But after a certain point, further advancements
+  address this complexity of operation by internalizing it. This makes
+  the technology simple to use for lay users, but in an opaque,
+  'magical' way.
 
-[^2]: John Siracusa's [review of
-    Lion](http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars)
-    is probably the best starting point, and [this Mac Observer
-    article](http://www.macobserver.com/tmo/article/the_future_of_the_mac_after_lion/)
-    discusses this as well. 
+[^2]: John Siracusa's [review of Lion](http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars)
+  is probably the best starting point, and [this Mac Observer article](http://www.macobserver.com/tmo/article/the_future_of_the_mac_after_lion/)
+  discusses this as well.
 
 [^3]: The mapping between iOS's direct manipulation and Lion's indirect
-    manipulation via touchpad is weird. Nothing in iOS maps to moving
-    the cursor around by dragging your finger across the touchpad.
-    Scrolling with one finger in iOS, maps to dragging with two fingers
-    in Lion. Touching in iOS maps to pressing down harder on the part of
-    the touchpad that you're already touching in Lion. And that's not
-    even getting into the crazy gestures. I think this actually produces
-    a UI "[uncanny valley](http://en.wikipedia.org/wiki/Uncanny_valley)"
-    effect. 
+  manipulation via touchpad is weird. Nothing in iOS maps to moving
+  the cursor around by dragging your finger across the touchpad.
+  Scrolling with one finger in iOS, maps to dragging with two fingers
+  in Lion. Touching in iOS maps to pressing down harder on the part of
+  the touchpad that you're already touching in Lion. And that's not
+  even getting into the crazy gestures. I think this actually produces
+  a UI "[uncanny valley](http://en.wikipedia.org/wiki/Uncanny_valley)"
+  effect.
 
 [^4]: If you think back to your first experience with a mouse, or watching
-    someone's first experience, you might agree that the mouse actually
-    isn't particularly intuitive so much as it is familiar.
-    
+  someone's first experience, you might agree that the mouse actually
+  isn't particularly intuitive so much as it is familiar.
 
 [^5]: This observation is probably more broadly applicable. For example,
-    languages with simpler grammars are probably easier to learn, but
-    less powerful in terms of conveying a lot of subtle information in
-    the shortest amount of time. I don't have the knowledge or resources
-    to explore this properly, though.
+  languages with simpler grammars are probably easier to learn, but
+  less powerful in terms of conveying a lot of subtle information in
+  the shortest amount of time. I don't have the knowledge or resources
+  to explore this properly, though.
