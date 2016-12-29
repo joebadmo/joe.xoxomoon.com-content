@@ -1,5 +1,6 @@
 ---
 title: Problems in the Publication of In-Flight Magazines
+date: 2009-01-01
 layout: portfolio
 ---
 Paradigm Communications Group, where I worked as an unpaid editorial intern for three months from 22 September to 18 December 2008, is a small publishing company headquartered in downtown Seattle that publishes the in-flight magazines for Alaska Airlines and Horizon Air. Alaska Airlines and Horizon Air, while operated independently, are owned by the same parent company and together serve a little over 90 cities in the United States, Canada, and Mexico. *Alaska Airlines Magazine* and *Horizon Air Magazine*, both monthly publications, have a combined potential readership of 2 million per month (i.e.&nbsp;the airlines board 2 million passengers per month).

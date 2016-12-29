@@ -1,5 +1,6 @@
 ---
 title: A Hospital Visit
+date: 2008-06-01
 layout: portfolio
 ---
 My first visit to the Veterans Affairs Hospital is during my terminal leave period, a few weeks after making the fourteen-hour drive up to Seattle from Twentynine Palms, CA. When you enlist in any branch of the United States military, the government promises to discharge you in the same or better condition as at the time of enlistment. I had unresolved dental issues (a couple of cavities) but not enough time left between my last deployment and my terminal leave date to get them resolved, so I deferred treatment until after my discharge. I didn't end up getting around to it until several months after getting out.
