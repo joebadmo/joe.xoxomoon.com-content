@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="lead">Just your typical preterite* immigrant combat veteran with a literature degree.</p>
+Just your typical preterite* immigrant combat veteran with a literature degree.
 
 <small>* In Pynchon's religious sense, not the grammatical one.</small>
 
@@ -13,7 +13,7 @@ I live in a Portland, Oregon with my wife Bev and our kids, Zeke and Bea.
 
 I'm a "software" "engineer" for [AppNexus, Inc.](http://www.appnexus.com/)
 
-Like any good Portlander, I drinking good coffee, eating good food, and riding my bicycle to work.
+Like any good Portlander, I drinking good &#9749;, &#127860; good food, and riding my &#128690; to work.
 
 In my free time I try to read, write (both prose and code), and climb rocks whenever I can.
 
@@ -63,7 +63,7 @@ As a Comparative Literature major, I did a lot of writing. Here's some of it:
 
 ### war
 
-I kept a blog during most of my enlistment as a U.S. Marine Corps infantryman.
+I kept a blog during most of my enlistment in the Marines.
 
 I collected posts from my second deployment [here](http://servicerecordbook.com).
 
