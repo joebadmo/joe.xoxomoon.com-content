@@ -37,7 +37,7 @@ The thing I've gotten the most mileage out of recently, though, is
 [Instapaper](http://www.instapaper.com/ "Instapaper"). This bookmarklet,
 in combination with the iPod Touch/iPhone app, has really changed the
 way I read. The way it works is very similar to
-[Readability](http://lab.arc90.com/experiments/readability/ "Readability"),
+[Readability](https://www.readability.com/ "Readability"),
 which we've talked about before, and [Read It
 Later](https://addons.mozilla.org/en-US/firefox/addon/7661 "Read It Later"),
 or sort of a combination of the two. The bookmarklet basically saves the
