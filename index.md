@@ -1,5 +1,6 @@
 ---
 title: joe.xoxomoon.com
+layout: index
 ---
 
 ## about
@@ -11,31 +12,30 @@ our children, Zeke and Bea.
 
 I'm a "software" "engineer" for [AppNexus, Inc](http://www.appnexus.com/).
 
-Like any good Portlander, I enjoy drinking good coffee, eating well, and
+Like any good Portlander, I enjoy drinking good coffee, eating good food, and
 commuting by bicycle.
 
-In my free time I try to read, write (both prose and code), and climb rocks
-whenever I can.
+In my free time I try to read, write (both prose and code), and climb rocks.
 
 ### bio
 
 I was in the US Marine Corps Infantry. I served two tours in Iraq, and one in
 the West Pacific.
 
-I earned my B.A. in Comparative Literature from the University of Washington in
-Seattle on the Montgomery GI Bill.
+After that, I earned my B.A. in Comparative Literature from the University of
+Washington in Seattle on the Montgomery GI Bill.
 
 ### about this site
 
-I built this site with Rust.
+I built this site with [Rust](https://www.rust-lang.org/en-US/).
 
 ## code
 
 I've been writing code for at least several weeks now. I have an opinion about
 punctuation in JavaScript.
 
-[This](https://github.com/joebadmo/dotfiles) is my dotfiles repo. There are many
-like it but this one is mine.
+[This](https://github.com/sodiumjoe/dotfiles) is my dotfiles repo. There are
+many like it but this one is mine.
 
 I generally work in [Vim](http://www.vim.org/) in a
 [tmux](http://tmux.sourceforge.net/) session running in
