@@ -1,6 +1,5 @@
 ---
 title: Problems in the Publication of In-Flight Magazines
-date: 1/1/2009
 description: Reflective essay on internship experience at a small publishing company.
 ---
 Paradigm Communications Group, where I worked as an unpaid editorial intern for three months from 22 September to 18 December 2008, is a small publishing company headquartered in downtown Seattle that publishes the in-flight magazines for Alaska Airlines and Horizon Air. Alaska Airlines and Horizon Air, while operated independently, are owned by the same parent company and together serve a little over 90 cities in the United States, Canada, and Mexico. *Alaska Airlines Magazine* and *Horizon Air Magazine*, both monthly publications, have a combined potential readership of 2 million per month (i.e.&nbsp;the airlines board 2 million passengers per month).
@@ -55,28 +54,26 @@ Govil, Nitin. "Something spatial in the air: In-flight entertainment and the top
 
 <h3 id="notes">Notes</h3>
 
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      Rhodes, Leara, "Inflight Magazines: Changing How Travelers Read," Journal of Magazine &amp; New Media Research, (Fall 1999).<a href="#fnref:1" rel="reference">&#8617;</a>
-    </li>
-    <li id="fn:2">
-      Thurlow, Crispin and Adam Jaworski, "Communicating a global reach: Inflight magazines as a globalizing genre in tourism," Journal of Sociolinguistics, 7/4 (2003), 601.<a href="#fnref:2" rel="reference">&#8617;</a>
-    </li>
-    <li id="fn:3">
-      Ibid., 585.<a href="#fnref:3" rel="reference">&#8617;</a>
-    </li>
-    <li id="fn:4">
-      Rhodes.<a href="#fnref:4" rel="reference">&#8617;</a>
-    </li>
-    <li id="fn:5">
-      Thurlow, 595.<a href="#fnref:5" rel="reference">&#8617;</a>
-    </li>
-    <li id="fn:6">
-      Ibid, 599.<a href="#fnref:6" rel="reference">&#8617;</a>
-    </li>
-    <li id="fn:7">
-      Associated Press, "Delta to Offer Wi-Fi on U.S. Flights," New York Times, 5 August 2008.<a href="#fnref:7" rel="reference">&#8617;</a>
-    </li>
-  </ol>
-</div>
+<ol>
+  <li id="fn:1">
+    Rhodes, Leara, "Inflight Magazines: Changing How Travelers Read," Journal of Magazine &amp; New Media Research, (Fall 1999).<a href="#fnref:1" rel="reference">&#8617;</a>
+  </li>
+  <li id="fn:2">
+    Thurlow, Crispin and Adam Jaworski, "Communicating a global reach: Inflight magazines as a globalizing genre in tourism," Journal of Sociolinguistics, 7/4 (2003), 601.<a href="#fnref:2" rel="reference">&#8617;</a>
+  </li>
+  <li id="fn:3">
+    Ibid., 585.<a href="#fnref:3" rel="reference">&#8617;</a>
+  </li>
+  <li id="fn:4">
+    Rhodes.<a href="#fnref:4" rel="reference">&#8617;</a>
+  </li>
+  <li id="fn:5">
+    Thurlow, 595.<a href="#fnref:5" rel="reference">&#8617;</a>
+  </li>
+  <li id="fn:6">
+    Ibid, 599.<a href="#fnref:6" rel="reference">&#8617;</a>
+  </li>
+  <li id="fn:7">
+    Associated Press, "Delta to Offer Wi-Fi on U.S. Flights," New York Times, 5 August 2008.<a href="#fnref:7" rel="reference">&#8617;</a>
+  </li>
+</ol>
