@@ -8,12 +8,13 @@ href="https://gravitys-rainbow.pynchonwiki.com/wiki/index.php?title=P#preterite"
 religious sense</a>, not the grammatical one.</small>
 </section>
 
-&ldquo;Senior&rdquo; &ldquo;software&rdquo; &ldquo;engineer&rdquo; for [AppNexus, Inc](http://www.appnexus.com/).
+Software &ldquo;engineer&rdquo; for [Stripe](https://stripe.com/).
 
 Mostly JavaScript. Some ClojureScript, Clojure, Elixir, and, lately, Rust. Also
 commas. And animated gifs.
 
 Previously:
+* AppNexus, Inc.
 * Janrain, Inc.
 * AppFog, Inc.
 * Internal Revenue Service

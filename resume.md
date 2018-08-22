@@ -3,9 +3,13 @@ title: resume
 ---
 ## Experience
 
+### Software Engineer, Stripe
+
+June 2018&ndash;Present
+
 ### Software Engineer I & II, Senior Software Engineer, AppNexus, Inc.
 
-July 2014&ndash;Present
+July 2014&ndash;June 2018
 
 * Web Applications Platform Engineer
   - Rewrote set of legacy microservices into a single, well-tested, modern
