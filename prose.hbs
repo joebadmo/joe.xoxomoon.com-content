@@ -1,0 +1,13 @@
+<article>
+  <h2>{{title}}</h2>
+  <p>Some papers I wrote as a comparative literature major.</p>
+  <ul class="listing">
+    {{#each items}}
+      <li>
+        <a title="{{this.title}}" href="/{{this.path}}">{{this.title}}</a>
+        <p>{{{this.description}}}</p>
+      </li>
+    {{/each}}
+  </ul>
+</article>
+

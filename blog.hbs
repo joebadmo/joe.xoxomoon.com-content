@@ -1,0 +1,12 @@
+<article>
+  <h2>{{title}}</h2>
+  <ul class="listing">
+    {{#each items}}
+      <li>
+        <a title="{{this.title}}" href="/{{this.path}}">{{this.date}}</a>
+        <span title="{{this.title}}">{{this.title}}</span>
+      </li>
+    {{/each}}
+  </ul>
+</article>
+
