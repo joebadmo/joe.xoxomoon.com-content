@@ -1,0 +1,21 @@
+{
+  "name": "joe.xoxomoon.com-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodiumjoe/joe.xoxomoon.com-content.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodiumjoe/joe.xoxomoon.com-content/issues"
+  },
+  "homepage": "https://github.com/sodiumjoe/joe.xoxomoon.com-content#readme"
+}
