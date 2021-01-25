@@ -5,11 +5,11 @@ title: resume
 
 ### Software Engineer, Stripe
 
-June 2018&ndash;Present
+June 2018--Present
 
 ### Software Engineer I & II, Senior Software Engineer, AppNexus, Inc.
 
-July 2014&ndash;June 2018
+July 2014--June 2018
 
 * Web Applications Platform Engineer
   - Rewrote set of legacy microservices into a single, well-tested, modern
@@ -46,7 +46,7 @@ July 2014&ndash;June 2018
 
 ### Software Engineer, Janrain, Inc.
 
-July 2013&ndash;June 2014
+July 2013--June 2014
 
 * Developed and maintained customer-facing JavaScript web applications using
   Angular.js, Grunt.js, D3.js, and Bootstrap.
@@ -67,7 +67,7 @@ July 2013&ndash;June 2014
 
 ### Software Developer, AppFog, Inc.
 
-Feb 2013&ndash;June 2013
+Feb 2013--June 2013
 
 * Developed and maintained features for the AppFog web console, a
   customer-facing application for managing Cloud Foundry applications across
@@ -79,7 +79,7 @@ Feb 2013&ndash;June 2013
 
 ### Support Engineer, AppFog, Inc.
 
-Feb 2012&ndash;Feb 2013
+Feb 2012--Feb 2013
 
 * Initiated and executed a rewrite and reorganization of user documentation
   content from an unstructured collection of articles into a narrative set of
@@ -99,11 +99,11 @@ Feb 2012&ndash;Feb 2013
 
 ### Administrative Clerk, Internal Revenue Service
 
-Sept 2009&ndash;Feb 2012
+Sept 2009--Feb 2012
 
 ### Rifleman, Corporal Third Light Armored Reconnaissance Battalion, USMC
 
-Sept 2002&ndash;Sept 2006
+Sept 2002--Sept 2006
 
 ## Education
 
@@ -113,8 +113,8 @@ Seattle, Washington<br />
 March 2009
 
 * Major GPA: 3.92.
-* Dean's List, Sept 2006&ndash;March 2009.
-* Chester William Fritz Scholarship, 2008&ndash;2009.
-* International Programs and Exchanges Scholarship, Sept 2007&ndash;Dec 2007.
+* Dean's List, Sept 2006--March 2009.
+* Chester William Fritz Scholarship, 2008--2009.
+* International Programs and Exchanges Scholarship, Sept 2007--Dec 2007.
 
 Professional references available upon request.

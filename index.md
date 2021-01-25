@@ -4,11 +4,11 @@ title: home
 <section class="lead">
 <p>Preterite* immigrant combat veteran programmer with a literature degree.</p>
 <small>* In <a
-href="https://gravitys-rainbow.pynchonwiki.com/wiki/index.php?title=P#preterite">Pynchon&#x27;s
+href="https://gravitys-rainbow.pynchonwiki.com/wiki/index.php?title=P#preterite">Pynchon’s
 religious sense</a>, not the grammatical one.</small>
 </section>
 
-Software &ldquo;engineer&rdquo; for [Stripe](https://stripe.com/).
+Software "engineer" for [Stripe](https://stripe.com/).
 
 Mostly JavaScript. Some ClojureScript, Clojure, Elixir, and, lately, Rust. Also
 commas. And animated gifs.
